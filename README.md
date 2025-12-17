@@ -12,7 +12,7 @@ Thanks to a kind reply from a user named Mark one can try following.
 <br><br>
 Since you can have different versions of python installed, you may nedd to specify the correct one in your preferences.
 <br>
-The only thing you need to do, is to add the path to the (correct) python executable that Inkscape should use in the extensions tag of the preferences.xml file (path found in Inkscape in Edit > Preferences > System > User Preferences) like so:
+The only thing you need to do, is to add the path to the (correct) python executable that Inkscape should use in the extensions tag of the preferences.xml file (path found in Inkscape in Edit > Preferences > System > User Preferences) like so:<br>
 `<group
      id="extensions"
      org.inkscape.output.png.inkscape.png_bitdepth="99"
