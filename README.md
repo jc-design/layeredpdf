@@ -1,6 +1,6 @@
 ## Layered PDF
 
-LayereredPDF is i useful extention for [Inkscape](https://inkscape.org)
+LayereredPDF is i useful extention for [Inkscape](https://inkscape.org) which you can find [here](https://inkscape.org/~jc-design/%E2%98%85layeredpdf) as well.
 
 With the LayeredPDF extension, it is possible to create PDF documents with layers from within Inkscape. All layers from Inkscape are transferred 1:1 to the PDF.
 To use these features, the PyMuPDF module must be installed.
